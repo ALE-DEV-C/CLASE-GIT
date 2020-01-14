@@ -25,9 +25,13 @@ public class clasegit2
      * @param  y   a sample parameter for a method
      * @return     the sum of x and y 
      */
-    public int sampleMethod(int y)
+    public void metodo()
     {
         // put your code here
-        return x + y;
+        x=5;
+        int y=10;
+        System.out.println(x-y);
+        
+       
     }
 }
