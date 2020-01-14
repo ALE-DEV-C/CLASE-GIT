@@ -1,13 +1,13 @@
 
-public class CLASEGIT
+public class CLASEGIT3
 {
     // instance variables - replace the example below with your own
     private int x;
 
     /**
-     * Constructor for objects of class CLASEGIT
+     * Constructor for objects of class CLASEGIT3
      */
-    public CLASEGIT()
+    public CLASEGIT3()
     {
         // initialise instance variables
         x = 0;
