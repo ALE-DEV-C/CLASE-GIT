@@ -28,10 +28,9 @@ public class clasegit2
     public void metodo()
     {
         // put your code here
-        x=5;
-        int y=10;
-        System.out.println(x-y);
-        
-       
+        x=2;
+        int y=1;
+        System.out.println(x+y);
+
     }
 }
